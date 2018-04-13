@@ -1,10 +1,10 @@
 # Odoo addons
 
-This directory contains the sources of the [Odoo](http://www.odoo.com/) addons developed by Roman Egunkov.
+This directory contains the sources of the Odoo addons developed by Roman Egunkov.
 
 ## Available for
 
-Odoo `v 11.0`
+[Odoo](http://www.odoo.com/) `v 11.0`
 
 ## License
 
