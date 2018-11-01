@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+
+    <t t-name="mail.chatter.ChatComposer" t-extend="mail.ChatComposer">
+            <t t-jquery="div[class='o_composer_suggested_partners'] > t > div > div[class='o_checkbox'] > input[type='checkbox']" t-operation="replace">
+                    <input type="checkbox"
+                           t-att-checked="0 &amp;&amp; ( recipient.checked ? 'checked' : undefined )"
+                           t-att-data-fullname="recipient.full_name"/>
+            </t>
+     </t>
+
+</templates>
