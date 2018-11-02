@@ -6,6 +6,12 @@ This directory contains the sources of the Odoo addons developed by Roman Egunko
 
 [Odoo](http://www.odoo.com/) `v 11.0`
 
+## suggested_followers_restrictions
+
+Allow or deny to suggest add parthers as recipient and follower.
+
+Unchecked suggested partners by default.
+
 ## License
 
 Copyright 2018 Roman Egunkov <romanegunkov@gmail.com>
